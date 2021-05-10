@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastMoney", "FastMoney\FastMoney.csproj", "{69ECE3AF-22EE-48B2-AD4A-4D10387D224D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69ECE3AF-22EE-48B2-AD4A-4D10387D224D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69ECE3AF-22EE-48B2-AD4A-4D10387D224D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69ECE3AF-22EE-48B2-AD4A-4D10387D224D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69ECE3AF-22EE-48B2-AD4A-4D10387D224D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F141C81F-6998-4A19-B103-56235BCFB259}
+	EndGlobalSection
+EndGlobal

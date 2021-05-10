@@ -1,2 +1,3 @@
 # slot-machine
- A slot machine right out of Vegas
+ 
+Slot Machine straight out of vegas 
